@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Certificates](https://img.shields.io/badge/Total%20Certificates-6-blue?style=for-the-badge&logo=googlescholar)
-![Domain](https://img.shields.io/badge/Specialization-Data%20Engineering%20%7C%20Analytics%20%7C%20Cybersecurity-orange?style=for-the-badge)
+![Certificates](https://img.shields.io/badge/Total%20Certificates-9-blue?style=for-the-badge&logo=googlescholar)
+![Domain](https://img.shields.io/badge/Specialization-Data%20Engineering%20%7C%20Analytics%20%7C%20Cybersecurity%20%7C%20Data%20Science-orange?style=for-the-badge)
 ![Profile](https://img.shields.io/badge/Recipient-Kartik%20Kishor%20Kothalkar-green?style=for-the-badge&logo=github)
 
 </div>
@@ -24,6 +24,9 @@ A curated repository documenting professional certifications, industry accredita
   - [4. Deloitte Data Analytics Job Simulation](#4-deloitte-data-analytics-job-simulation)
   - [5. Forage Tech Explorer Job Simulation](#5-forage-tech-explorer-job-simulation)
   - [6. Forage Cybersecurity Job Simulation](#6-forage-cybersecurity-job-simulation)
+  - [7. Forage Data Labeling Job Simulation](#7-forage-data-labeling-job-simulation)
+  - [8. BCG Data Science Job Simulation](#8-bcg-data-science-job-simulation)
+  - [9. TATA Cybersecurity Analyst Job Simulation](#9-tata-cybersecurity-analyst-job-simulation)
 - [Skills Matrix](#-skills-matrix)
 - [Directory Structure](#-directory-structure)
 - [Verification & Authenticity](#-verification--authenticity)
@@ -40,6 +43,9 @@ A curated repository documenting professional certifications, industry accredita
 | 4 | **Data Analytics Job Simulation** | Deloitte (via Forage) | Enrolment: `6a8a1c56be4748808e8cd4e2` | Enterprise Analytics & Forensics | [PDF](certificates/Deloitte_Data_Analytics_Job_Simulation.pdf) |
 | 5 | **Tech Explorer Job Simulation** | Forage | Enrolment: `6a8a7966841fdedde7f993f5` | Multi-disciplinary Tech & Engineering | [PDF](certificates/Forage_Tech_Explorer_Job_Simulation.pdf) |
 | 6 | **Cybersecurity Job Simulation** | Forage | Enrolment: `6a8a84f1841fdedde7fb3108` | Information Security & Defense | [PDF](certificates/Forage_Cybersecurity_Job_Simulation.pdf) |
+| 7 | **Data Labeling Job Simulation** | Forage | Enrolment: `6a8fa036d8fa146772ba1e4f` | Data Labeling | [PDF](certificates/Forage_Data_Labeling_Job_Simulation.pdf) |
+| 8 | **Data Science Job Simulation** | BCG (via Forage) | Enrolment: `6a8fa58d2c00450588c5acaf` | Data Science | [PDF](certificates/BCG_Data_Science_Job_Simulation.pdf) |
+| 9 | **Cybersecurity Analyst Job Simulation** | TATA (via Forage) | Enrolment: `6a8fa419d8fa146772ba782f` | Cybersecurity | [PDF](certificates/TATA_Cybersecurity_Analyst_Job_Simulation.pdf) |
 
 ---
 
@@ -140,6 +146,51 @@ A curated repository documenting professional certifications, industry accredita
 
 ---
 
+### 7. Forage Data Labeling Job Simulation
+* **Issuing Organization:** Forage
+* **Enrolment Verification Code:** `6a8fa036d8fa146772ba1e4f`
+* **User Verification Code:** `6a8a1b61be4748808e8cbe5a`
+* **Issue Date:** August 27, 2026
+* **Direct File:** [`certificates/Forage_Data_Labeling_Job_Simulation.pdf`](certificates/Forage_Data_Labeling_Job_Simulation.pdf)
+* **Description:**
+  A practical simulation focused on data labeling processes and PII (Personally Identifiable Information) awareness.
+* **Key Tasks & Skills Completed:**
+  - **Batch Labeling:** Completed tasks related to batch labeling and understanding data contexts.
+  - **PII Awareness:** Handled sensitive information with awareness of privacy and compliance.
+  - **Quality Control:** Engaged in review, quality control, and iteration to ensure data accuracy.
+
+---
+
+### 8. BCG Data Science Job Simulation
+* **Issuing Organization:** BCG (via Forage)
+* **Enrolment Verification Code:** `6a8fa58d2c00450588c5acaf`
+* **User Verification Code:** `6a8a1b61be4748808e8cbe5a`
+* **Issue Date:** August 27, 2026
+* **Direct File:** [`certificates/BCG_Data_Science_Job_Simulation.pdf`](certificates/BCG_Data_Science_Job_Simulation.pdf)
+* **Description:**
+  A data science simulation encompassing the entire data science lifecycle, from understanding business problems to modeling and delivering insights.
+* **Key Tasks & Skills Completed:**
+  - **Business Understanding:** Framed business problems and gathered background information.
+  - **Data Processing:** Conducted Exploratory Data Analysis (EDA), data cleaning, and feature engineering.
+  - **Modeling & Insights:** Built and evaluated models, and delivered actionable insights and recommendations.
+
+---
+
+### 9. TATA Cybersecurity Analyst Job Simulation
+* **Issuing Organization:** TATA (via Forage)
+* **Enrolment Verification Code:** `6a8fa419d8fa146772ba782f`
+* **User Verification Code:** `6a8a1b61be4748808e8cbe5a`
+* **Issue Date:** August 27, 2026
+* **Direct File:** [`certificates/TATA_Cybersecurity_Analyst_Job_Simulation.pdf`](certificates/TATA_Cybersecurity_Analyst_Job_Simulation.pdf)
+* **Description:**
+  A job simulation focused on Identity and Access Management (IAM) and securing enterprise platforms.
+* **Key Tasks & Skills Completed:**
+  - **IAM Fundamentals:** Applied principles of identity and access management.
+  - **Strategy Assessment:** Assessed IAM strategies and crafted custom solutions.
+  - **Platform Integration:** Integrated security solutions across platforms.
+
+---
+
 ## 🛠 Skills Matrix
 
 ```
@@ -148,8 +199,8 @@ A curated repository documenting professional certifications, industry accredita
 ├───────────────────────────────┼─────────────────────────────────────────────────────────────┤
 │ 🐘 Big Data & Distributed     │ Apache Hadoop, HDFS, MapReduce, YARN, Big Data Analytics    │
 │ 🗄️ Databases & Querying       │ SQL, RDBMS (PostgreSQL/MySQL), Data Aggregation, Subqueries │
-│ 📊 Data Analytics & BI        │ Forensic Analytics, Business Intelligence, Data Cleansing  │
-│ 🛡️ Cybersecurity & Governance │ Identity & Access Management (IAM), Phishing Defense, SecOps│
+│ 📊 Data Analytics & Science   │ Forensic Analytics, EDA, Feature Engineering, Modeling      │
+│ 🛡️ Cybersecurity & Governance │ IAM, Phishing Defense, SecOps, Platform Integration         │
 │ 📱 Software Engineering       │ Requirements Gathering, iOS Widget Engineering, Swift       │
 └───────────────────────────────┴─────────────────────────────────────────────────────────────┘
 ```
@@ -164,10 +215,12 @@ Certificates/
 ├── certificates/
 │   ├── Deloitte_Data_Analytics_Job_Simulation.pdf
 │   ├── Forage_Cybersecurity_Job_Simulation.pdf
+│   ├── Forage_Data_Labeling_Job_Simulation.pdf
 │   ├── Forage_Tech_Explorer_Job_Simulation.pdf
 │   ├── HackerRank_SQL_Basic.pdf
 │   ├── IBM_Big_Data_101.pdf
-│   └── IBM_Hadoop_101.pdf
+│   ├── IBM_Hadoop_101.pdf
+│   └── TATA_Cybersecurity_Analyst_Job_Simulation.pdf
 │
 ├── .gitignore
 └── README.md
